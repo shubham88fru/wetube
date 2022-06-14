@@ -4,7 +4,7 @@
   "description": "Youtube clone using vanilla js and node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Shubham Singh",
   "license": "ISC",
